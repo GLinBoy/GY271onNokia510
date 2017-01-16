@@ -1,0 +1,12 @@
+GY271 on Nokia510 on Arduino Mega
+========
+Based on http://bit.ly/2iuGvSp
+
+
+----------
+
+*I hope this project to help someone other...*
+
+
+***Best Regards***
+***GLinBoy***
